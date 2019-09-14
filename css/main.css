@@ -445,7 +445,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #3b0d11;
+  background: #037c82;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -454,7 +454,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #3b0d11;
+  color: #037c82;
 }
 
 dd {
@@ -997,8 +997,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #3b0d11;
-  border-color: #3b0d11;
+  background: #222;
+  border-color: #222;
   color: #ffffff;
 }
 
@@ -2129,7 +2129,7 @@ input::-moz-focus-inner {
   content: "";
   height: 2px;
   width: 10rem;
-  background-color: #7d1c24;
+  background-color: #037c82;
   position: absolute;
   top: 0;
   left: .8rem;
@@ -3516,7 +3516,7 @@ html.no-csstransitions .hero-content {
 .event-meta strong {
   font-family: "Open Sans", sans-serif;
   margin-right: 1.2rem;
-  color: #3b0d11;
+  color: #037c82;
 }
 
 .event-meta strong::after {
